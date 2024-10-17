@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="402bef5a-9463-426b-9973-a9a1e38b61a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mega_Poject/main.py" afterDir="false" />
+    <list default="true" id="402bef5a-9463-426b-9973-a9a1e38b61a2" name="Changes" comment="jervis">
+      <change afterPath="$PROJECT_DIR$/Mega_Poject/music_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mega_Poject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mega_Poject/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.main.executor": "Run",
+    "Python.openAI.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -72,6 +75,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729104272944</updated>
     </task>
+    <task id="LOCAL-00001" summary="jervis">
+      <option name="closed" value="true" />
+      <created>1729114225996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729114225996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jervis" />
+    <option name="LAST_COMMIT_MESSAGE" value="jervis" />
   </component>
 </project>
